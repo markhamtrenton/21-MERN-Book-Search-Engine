@@ -1,3 +1,7 @@
+In this weeks homework we had to create a book search engine the app was built using the MERN stack with a React front end, MongoDB database, and Node.js/Express.js server and API. It's already set up to allow users to save book searches to the back end. 
+
+
+
 # 21 MERN: Book Search Engine
 
 ## Your Task
