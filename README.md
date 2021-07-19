@@ -1,5 +1,8 @@
 In this weeks homework we had to create a book search engine the app was built using the MERN stack with a React front end, MongoDB database, and Node.js/Express.js server and API. It's already set up to allow users to save book searches to the back end. 
-
+Heroku:https://booksearch112.herokuapp.com/
+Github:https://github.com/markhamtrenton/21-MERN-Book-Search-Engine/edit/main/README.md
+Screenshot below
+![Screenshot 2021-07-18 211024](https://user-images.githubusercontent.com/77074964/126088895-b18ef0a6-c89f-4163-8a81-bb12a9d95f5e.jpg)
 
 
 # 21 MERN: Book Search Engine
